@@ -46,11 +46,11 @@ Memory Keeper is a Python-based console application designed to store, manage, a
    ```
 2. Navigate to the project directory:
    ```bash
-   cd memory-keeper
+   cd Memory_Lane
    ```
 3. Run the application:
    ```bash
-   python memory_keeper.py
+   python reminisce.py
    ```
 
 ## How to Use
@@ -81,7 +81,7 @@ Memory added: 'Vacation at the beach'.
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for details.
 
 ## Author
 [EJC](https://github.com/H41s3)
