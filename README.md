@@ -42,7 +42,7 @@ Memory Keeper is a Python-based console application designed to store, manage, a
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/memory-keeper.git
+   git clone https://github.com/H41s3/memory-keeper.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -59,7 +59,7 @@ Memory Keeper is a Python-based console application designed to store, manage, a
 2. Add, view, or delete memories, milestones, dates, moods, quotes, and letters as needed.
 3. Exit the program, and your data will be saved automatically to a `data.json` file.
 
-![Memory Keeper Menu](https://media.giphy.com/media/example2.gif)
+![Memory Keeper Menu](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk2cXk5OXFxZHR3YjV4dnN2ZmdpaHdha2IxdXl0cnF4czYybmE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xh7Nhs6PlOThC/giphy.webp)
 
 ## File Structure
 - **memory_keeper.py**: Main application logic.
@@ -84,4 +84,4 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[EJC](https://github.com/H41s3)
